@@ -1,1 +1,10 @@
-/*FARE LE REGOLE PER LA BARRA DI NAVIGAZIONE*/
+div {
+  
+}
+div h3 {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 13px;
+  text-decoration: none;
+}
