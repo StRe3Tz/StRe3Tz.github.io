@@ -1,13 +1,15 @@
-div barra_navigazione{
-  color: 2F2F2F;
+ul {
+  overflow: hidden;
+  list-style-type: none;
+  background-color: #2F2F2F;
+  padding: 0;
 }
-div h3{
-  display: block;
+li {
+  float: center;
+}
+li a {
   color: white;
+  background-color: black;
   text-align: center;
-  padding: 30px 13px;
-  text-decoration: none;
-}
-div h3:hover{
-  background-color: #404040;
+  display: inline-block;
 }
