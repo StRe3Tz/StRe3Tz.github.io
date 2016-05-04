@@ -3,18 +3,20 @@
 	src: url('./GothamBook.eot');
 	src: local('GothamBook'), url('./GothamBook.woff') format('woff'), url('./GothamBook.ttf') format('truetype');
 }
-div #barra-navigazione ul {
+#barra-navigazione ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: white;      /*COLORE DI PROVA, CAMBIARE IN SEGUITO*/ 
 }
-div #barra-navigazione ul li {
+#barra-navigazione ul li a {
   float: left;
   background-color: white;
+  color: black;
 }
-div #barra-navigazione ul li a  {
-  position: absolute;
-  
+#barra-navigazione ul li a:hover {
+  background-color: white;
+  text-shadow: 0px 0px 1px #black;
+  color: gray;
 }
