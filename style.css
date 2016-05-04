@@ -10,8 +10,13 @@
     overflow: hidden;
     background-color: white;      /*COLORE DI PROVA, CAMBIARE IN SEGUITO*/ 
 }
+#barra-navigazione ul li {
+	float: left;
+	padding: 15px 30px;
+	display: block;
+	margin: 0;
+}
 #barra-navigazione ul li a {
-  float: left;
   background-color: white;
   color: black;
 }
