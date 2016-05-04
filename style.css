@@ -35,7 +35,7 @@ a {
 #barra-navigazione ul ul {
 	visibility: hidden;
 }
-#barra-navigzione ul li:hover ul {
+#barra-navigzione ul .verso-sotto:hover ul {
 	visibiliy: visible;
 }
 #barra-navigazone ul ul li a {
