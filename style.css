@@ -3,6 +3,11 @@
 	src: url('./GothamBook.eot');
 	src: local('GothamBook'), url('./GothamBook.woff') format('woff'), url('./GothamBook.ttf') format('truetype');
 }
+#barra-navigazione {
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
 a {
 	text-decoration: none;
 	font-family: 'GothamBook';
