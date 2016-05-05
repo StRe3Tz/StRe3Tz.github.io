@@ -14,13 +14,11 @@ ul {
 	position: fixed                        !important;
 	width: 100%                            !important;
 	z-index: 2;
+	padding: 15px 15px;
 }
 
 li {
 	display: inline;
-	padding: 50px 50px;
-	left: 30%;
-	right: 30%;
 	position: center;
 }
 
@@ -31,6 +29,8 @@ li a {
 	text-decoration: none;
 	font-family: "GothamBook";
 	z-index: 2;
+	left: 30%;
+	right: 30%;
 }
 
 li a:hover {
