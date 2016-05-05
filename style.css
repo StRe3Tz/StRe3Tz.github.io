@@ -38,7 +38,7 @@ li a:hover {
 	height: 400px;
 	padding-top: 47px;
 }
-#testo-centrato {
+.h2 {
     position: absolute;
     left: 5%;
     right: 5%;
@@ -49,6 +49,16 @@ li a:hover {
     font-family: "GothamBook";
     font-weight: bold;
     color: white;
+}
+.h3 {
+	position: absolute;
+	text-align: center;
+	font-size: 15px;
+	width: auto;
+	font-family: "GothamBook";
+	font-style: italic;
+	color: white;
+	top: 20%;
 }
 #sfondo-dei-box {
 	background-image: url(PC.jpg);
