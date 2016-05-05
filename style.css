@@ -38,9 +38,13 @@ li a:hover {
 	height: 400px;
 	padding-top: 47px;
 }
-#prima-sezione h2 {
-	color: black;
-	font-family: "GothamBook";
-	text-align: center;
-	text-transform: uppercase
+}
+#prima-sezione #testo-centrato {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family: "GothamBook";
 }
