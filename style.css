@@ -37,6 +37,7 @@ li a:hover {
 	width: auto;
 	height: 400px;
 	padding-top: 47px;
+	overflow: hidden;
 }
 #testo-centrato {
     position: absolute;
