@@ -10,7 +10,6 @@ ul {
     list-style-type: none;
     margin: 0;
     border: 0;
-    overflow: hidden;
     background-color: #333;
     position: fixed;
     width: 100%;
@@ -54,7 +53,8 @@ li a:hover {
 }
 #sfondo-dei-box {
 	background-image: url(PC.jpg);
-	background-size: 100% 3000px;
+	background-size: auto;
+	background-repeat: repeat;
 	padding: 0;
 	margin: 0;
 }
