@@ -13,8 +13,8 @@ ul {
 	background-color: white                !important;
 	position: fixed                        !important;
 	width: 100%                            !important;
-	z-index: 2;
-	text-align: center;
+	z-index: 2                             !important;
+	text-align: center                     !important;
 }
 li {
 	display: inline-block;
@@ -27,7 +27,8 @@ li a {
 	text-decoration: none;
 	font-family: "GothamBook";
 	z-index: 2;
-	padding: 20px;
+	padding: 20px 10px;
+	font-weight: bold;
 }
 li a:hover {
 	background-color: white;
