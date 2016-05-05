@@ -25,7 +25,7 @@ li {
 }
 
 li a {
-	display: block;
+	display: inline;
 	color: black;
 	text-align: center;
 	text-decoration: none;
