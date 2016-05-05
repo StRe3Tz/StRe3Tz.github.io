@@ -38,8 +38,9 @@ li a:hover {
 	height: 400px;
 	padding-top: 47px;
 }
-#prima-sezione .frase-tattica h2 {
+#prima-sezione h2 {
 	color: black;
 	font-family: "GothamBook";
 	text-align: center;
+	text-transform: uppercase
 }
