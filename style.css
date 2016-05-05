@@ -16,12 +16,10 @@ ul {
 	z-index: 2;
 	padding: 15px 15px;
 }
-
 li {
-	display: inline;
+	display: inline-block;
 	position: center;
 }
-
 li a {
 	display: inline-block;
 	color: black;
@@ -31,8 +29,8 @@ li a {
 	z-index: 2;
 	left: 30%;
 	right: 30%;
+	padding: 30px 15px;
 }
-
 li a:hover {
 	background-color: white;
 	color: gray;
