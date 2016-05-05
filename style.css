@@ -59,6 +59,8 @@ li a:hover {
 	font-style: italic;
 	color: white;
 	top: 20%;
+	left: 50%;
+	right: 50%;
 }
 #sfondo-dei-box {
 	background-image: url(PC.jpg);
