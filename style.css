@@ -1,6 +1,7 @@
 @font-face {
-	font-family: GothamBook;
-	src: url(GothamBook.woff);
+	font-family: "GothamBook";
+	src: url(GothamBook.eot);
+	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
 }
 .tendina .sotto {
 	display: none;
