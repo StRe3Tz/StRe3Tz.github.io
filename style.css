@@ -27,13 +27,16 @@ li a {
 	text-decoration: none;
 	font-family: "GothamBook";
 	z-index: 2;
-	padding: 20px 10px;
+	padding: 20px;
 	font-weight: bold;
 }
 li a:hover {
 	background-color: white;
 	color: gray;
 	z-index: 2;
+}
+li a:hover .tendina .sotto {
+	display: visible;
 }
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
