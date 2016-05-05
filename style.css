@@ -1,5 +1,6 @@
-body {
-	font: 'Gotham Book', Gotham-Book, Arial, sans-serif;
+@font-face {
+	font-family: GothamBook;
+	src: url(GothamBook.woff);
 }
 .tendina .sotto {
 	display: none;
