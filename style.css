@@ -51,7 +51,3 @@ li a:hover {
     font-weight: bold;
     color: white;
 }
-img:hover {
-	-webkit-transform:scale(0.5);
-	overflow: hidden;
-}
