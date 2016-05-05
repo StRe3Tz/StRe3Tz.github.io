@@ -62,9 +62,9 @@ li a:hover {
 	font-family: "GothamBook";
 	font-style: italic;
 	color: white;
-	top: 50%;
+	top: 35%;
 	left: 40%;
-	right: 30%;
+	right: 40%;
 }
 #sfondo-dei-box {
 	background-image: url(PC.jpg);
