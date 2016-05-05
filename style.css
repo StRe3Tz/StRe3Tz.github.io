@@ -17,7 +17,7 @@ ul {
 	text-align: center;
 }
 li {
-	display: inline;
+	display: inline-block;
 	position: center;
 }
 li a {
@@ -27,8 +27,6 @@ li a {
 	text-decoration: none;
 	font-family: "GothamBook";
 	z-index: 2;
-	padding-left: 50%;
-	padding-right: 50%;
 	padding: 10px;
 }
 li a:hover {
