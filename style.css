@@ -13,7 +13,7 @@
     transition:opacity linear 0.15s;
     background: white;
 }
-ul li:hover .tendina {
+li:hover .tendina {
 	z-index: 1;
 }
 ul {
