@@ -38,3 +38,8 @@ li a:hover {
 	height: 400px;
 	padding-top: 47px;
 }
+#prima-sezione .frase-tattica h2 {
+	color: white;
+	font-family: "GothamBook";
+	text-align: center;
+}
