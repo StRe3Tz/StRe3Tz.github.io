@@ -14,7 +14,6 @@ ul {
 	position: fixed                        !important;
 	width: 100%                            !important;
 	z-index: 2;
-	padding: 15px;
 }
 li {
 	display: inline-block;
@@ -29,8 +28,7 @@ li a {
 	z-index: 2;
 	left: 50%;
 	right: 50%;
-	position: absolute;
-	padding: 15px 30px;
+	position: relative;
 }
 li a:hover {
 	background-color: white;
