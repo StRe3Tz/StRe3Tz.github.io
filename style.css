@@ -33,14 +33,17 @@ li a:hover {
     background-color: #333;
     color: gray;
 }
-#prima-sezione {
-	width: 100%;
-	height: 400px;
-	padding-top: 47px;
-}
 #prima-sezione h2 {
 	color: black;
 	font-family: "GothamBook";
 	text-align: center;
 	text-transform: uppercase
+}
+#prima-sezione {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
 }
