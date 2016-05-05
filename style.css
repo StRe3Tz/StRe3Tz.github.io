@@ -3,8 +3,18 @@
 	src: url(GothamBook.eot);
 	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
 }
-.tendina .sotto {
-	display: none;
+.tendina {                                               /*PROVA(DI SICURO DISASTROSA)*/
+    width:160%;
+    padding:5px 0px;
+    position:absolute;
+    top:100%;
+    left:0px;
+    z-index:-1;
+    transition:opacity linear 0.15s;
+    background: white;
+}
+ul li:hover .tendina {
+	z-index: 1;
 }
 ul {
 	list-style-type: none                  !important;
