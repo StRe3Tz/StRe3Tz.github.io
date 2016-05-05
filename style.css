@@ -38,8 +38,7 @@ li a:hover {
 	height: 400px;
 	padding-top: 47px;
 }
-}
-#prima-sezione #testo-centrato {
+#testo-centrato {
     position: absolute;
     left: 0;
     top: 50%;
