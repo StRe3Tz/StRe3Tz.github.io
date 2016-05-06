@@ -99,10 +99,10 @@ li a:hover {
 #box3 {
 	/*100 RIGHEE*/
 	width: 567px;
-	height: 1134px;
+	height: 609px;
 	background-color:white;
 	position: relative;
 	z-index: 100;
 	left: 676px; /*SAREBBERO 567(WIDTHBOX) + 100(DA LEFT) + ANCORA SCONOSCIUTO SPAZIETTO*/
-	top: 210px;
+	top: -390px;
 }
