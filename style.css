@@ -80,6 +80,17 @@ li a:hover {
 .tendina { 
 	display: none;
 }
+.testo {
+	position: absolute;
+	text-align: center;
+	font-size: 12px;
+	width: auto;
+	font-family: "GothamBook";
+	color: white;
+	top: 20%;
+	left: 40%;
+	right: 40%;
+}
 #box1 {
 	width: 567px;
 	height: 300px;
