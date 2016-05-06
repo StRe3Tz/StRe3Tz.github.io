@@ -77,6 +77,17 @@ li a:hover {
 	z-index: -1;
 	height: 5000px;
 }
+#alla-scoperta {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	top: 10px
+	width: auto;
+	text-align: center;
+	font-size: 44px;
+	font-family: "GothamBook";
+	color: white;
+}
 .tendina { 
 	display: none;
 }
