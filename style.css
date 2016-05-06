@@ -55,11 +55,11 @@ li a:hover {
     font-weight: bold;
     color: white;
 }
-#sfondo-dei-box .h2 {
+#scritta-sfondo {
     position: absolute;
     left: 5%;
     right: 5%;
-    top: 15%;
+    top: 350px;
     width: auto;
     text-align: center;
     font-size: 27px;
