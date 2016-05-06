@@ -79,10 +79,11 @@ li a:hover {
 	display: none;
 }
 #box1 {
-	width: 400px;
-	height: 400px;
+	width: 500px;
+	height: 500px;
 	background-color: white;
 	float: right;
-	margin: 70px;
+	position: relative;
 	z-index: 100;
+	left: 30%;
 }
