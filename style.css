@@ -81,12 +81,13 @@ li a:hover {
 	position: absolute;
 	left: 5%;
 	right: 5%;
-	top: 10px
+	top: 10px;
 	width: auto;
 	text-align: center;
 	font-size: 44px;
 	font-family: "GothamBook";
 	color: white;
+	font-weight: 200;
 }
 .tendina { 
 	display: none;
