@@ -79,8 +79,8 @@ li a:hover {
 	display: none;
 }
 #box1 {
-	width: 800px;
-	height: 800px;
+	width: 400px;
+	height: 400px;
 	background-color: white;
 	float: left;
 	padding: 20px;
