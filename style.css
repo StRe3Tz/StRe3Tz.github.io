@@ -113,14 +113,14 @@ li a:hover {
 	position: relative;
 	z-index: 100;
 	left: 100px;
-	top: 438px;
+	top: -380px;
 }
 #box5 {
 	width: 567px;
 	height: 300px;
 	background-color: white;
-	position: relative;
+	position: absolute;
 	z-index: 100;
 	right: 100px;
-	top: 438px;
+	top: 1275px;
 }
