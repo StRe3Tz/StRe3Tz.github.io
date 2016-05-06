@@ -97,15 +97,15 @@ li a:hover {
 	z-index: 100;
 	left: 100px;
 	top: 219px;
-}
+} /*100 RIGHEE*/
 #box3 {
-	/*100 RIGHEE*/
+	background-image: url(GPU.jpg);
 	width: 567px;
 	height: 609px;
 	background-color:white;
 	position: relative;
 	z-index: 100;
-	left: 676px; /*SAREBBERO 567(WIDTHBOX) + 100(DA LEFT) + ANCORA SCONOSCIUTO SPAZIETTO*/
+	left: 676px;
 	top: -390px;
 }
 #box4 {
