@@ -85,7 +85,7 @@ li a:hover {
 	height: 300px;
 	position: relative;
 	z-index: 100;
-	left: 100px;
+	left: 99px;
 	top: 210px;
 	background-image: url(CPU.jpg);
 }
@@ -96,7 +96,7 @@ li a:hover {
 	background-color: white;
 	position: relative;
 	z-index: 100;
-	left: 100px;
+	left: 99px;
 	top: 219px;
 } /*100 RIGHEE*/
 #box3 {
@@ -106,7 +106,7 @@ li a:hover {
 	background-color:white;
 	position: relative;
 	z-index: 100;
-	left: 676px;
+	left: 675px;
 	top: -390px;
 }
 #box4 {
