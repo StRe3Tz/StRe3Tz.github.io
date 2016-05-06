@@ -84,4 +84,5 @@ li a:hover {
 	background-color: white;
 	float: left;
 	padding: 20px;
+	z-index: 100;
 }
