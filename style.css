@@ -83,11 +83,11 @@ li a:hover {
 .testo {
 	position: absolute;
 	text-align: center;
-	font-size: 12px;
+	font-size: 50px;
 	width: auto;
 	font-family: "GothamBook";
 	color: white;
-	top: 20%;
+	top: 10px;
 	left: 40%;
 	right: 40%;
 }
