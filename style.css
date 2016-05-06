@@ -95,6 +95,6 @@ li a:hover {
 	float: left;
 	position: relative;
 	z-index: 10;
-	right: 100px;
+	left: 100px;
 	top: 519px;
 }
