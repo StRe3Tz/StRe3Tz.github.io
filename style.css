@@ -15,8 +15,7 @@ ul {
 }
 li {
 	display: inline-block;
-	right: 50%;
-	left: 50%;
+	position: relative;
 }
 li a {
 	display: inline-block;
