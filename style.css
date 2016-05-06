@@ -43,7 +43,7 @@ li a:hover {
 	padding-top: 47px;
 	z-index: -1;
 }
-.h2 {
+#cit {
     position: absolute;
     left: 5%;
     right: 5%;
@@ -55,7 +55,7 @@ li a:hover {
     font-weight: bold;
     color: white;
 }
-.h3 {
+#autore {
 	position: absolute;
 	text-align: center;
 	font-size: 15px;
