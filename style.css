@@ -82,11 +82,11 @@ li a:hover {
 #box1 {
 	width: 567px;
 	height: 300px;
-	background-color: white;
 	position: relative;
 	z-index: 100;
 	left: 100px;
 	top: 210px;
+	background-image: url(CPU.jpg);
 }
 #box2 {
 	width: 567px;
