@@ -87,7 +87,8 @@ li a:hover {
 	font-size: 44px;
 	font-family: "GothamBook";
 	color: white;
-	font-weight: 200;
+	font-weight: 300;
+	z-index=50
 }
 .tendina { 
 	display: none;
