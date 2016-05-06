@@ -55,18 +55,6 @@ li a:hover {
     font-weight: bold;
     color: white;
 }
-#scritta-sfondo {
-    position: absolute;
-    left: 5%;
-    right: 5%;
-    top: 350px;
-    width: auto;
-    text-align: center;
-    font-size: 27px;
-    font-family: "GothamBook";
-    font-weight: bold;
-    color: white;
-}
 .h3 {
 	position: absolute;
 	text-align: center;
