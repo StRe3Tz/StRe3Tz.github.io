@@ -113,7 +113,7 @@ li a:hover {
 	position: relative;
 	z-index: 100;
 	left: 100px;
-	top: -380px;
+	top: -381px;
 }
 #box5 {
 	width: 567px;
@@ -123,4 +123,13 @@ li a:hover {
 	z-index: 100;
 	right: 100px;
 	top: 1275px;
+}
+#box6 {
+	width: 1134px;
+	height: 300px;
+	position: absolute;
+	z-index: 100;
+	right: 100px;
+	left: 100px;
+	top: 2000px;
 }
