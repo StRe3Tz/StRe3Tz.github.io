@@ -72,7 +72,7 @@ li a:hover {
 	background-size: auto;
 	background-repeat: repeat;
 	top: 400px;
-	padding: 1px;
+	padding: 0;
 	margin: 0;
 	z-index: -1;
 	height: 5000px;
@@ -97,8 +97,8 @@ li a:hover {
 	position: relative;
 	z-index: 100;
 	left: 99px;
-	top: 219px; /*100 RIGHEE*/
-} 
+	top: 219px;
+} /*100 RIGHEE*/
 #box3 {
 	background-image: url(GPU.jpg);
 	width: 567px;
