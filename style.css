@@ -15,7 +15,7 @@ ul {
 	background-color: white                !important;
 	position: fixed                        !important;
 	width: 100%                            !important;
-	z-index: 2                             !important;
+	z-index: 1000                          !important;
 	text-align: center                     !important;
 }
 li {
@@ -27,14 +27,14 @@ li a {
 	text-align: center;
 	text-decoration: none;
 	font-family: "GothamBook";
-	z-index: 2;
+	z-index: 1000;
 	padding: 20px;
 	font-weight: bold;
 }
 li a:hover {
 	background-color: white;
 	color: gray;
-	z-index: 2;
+	z-index: 1000;
 }
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
@@ -141,7 +141,7 @@ li a:hover {
 	position: absolute;
 	z-index: 100;
 	left: 100px;
-	top: 1800px;
+	top: 1895px;
 }
 #box8 {
 	width: 567px;
@@ -150,5 +150,5 @@ li a:hover {
 	position: absolute;
 	z-index: 100;
 	right: 100px;
-	top: 1800px;
+	top: 1895px;
 }
