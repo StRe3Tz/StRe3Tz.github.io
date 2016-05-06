@@ -14,8 +14,7 @@ ul {
 	text-align: center                     !important;
 }
 li {
-	display: inline-block;
-	position: relative;
+	display: inline;
 }
 li a {
 	display: inline-block;
