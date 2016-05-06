@@ -3,6 +3,11 @@
 	src: url(GothamBook.eot);
 	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
 }
+body {
+	padding: 0;
+	margin: 0;
+}
+/*CENTRARE PERFETTAMENTE LE SCRITTE*/
 ul {
 	list-style-type: none                  !important;
 	margin: 0                              !important;
