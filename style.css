@@ -78,3 +78,10 @@ li a:hover {
 .tendina { 
 	display: none;
 }
+#box1 {
+	width: 800px;
+	height: 800px;
+	background-color: white;
+	float: left;
+	padding: 20px;
+}
