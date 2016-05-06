@@ -82,7 +82,7 @@ li a:hover {
 	width: 400px;
 	height: 400px;
 	background-color: white;
-	float: left;
-	padding: 70px;
+	float: right;
+	margin: 70px;
 	z-index: 100;
 }
