@@ -81,16 +81,25 @@ li a:hover {
 	display: none;
 }
 .testo {
-	top: 10px;
+	position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 15%;
+    width: auto;
+    text-align: center;
+    font-size: 27px;
+    font-family: "GothamBook";
+    font-weight: bold;
+    color: white;
+/*	top: 10px;
 	width: auto;
 	text-align: center;
 	font-size: 50px;
 	font-family: "GothamBook";
 	color: white;
-	overflow: hidden;
+	overflow: hidden;     */
 }
 .sottotesto {
-	position: relative;
 	left: 5%;
 	right: 5%;
 	top: 8%;
