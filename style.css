@@ -81,8 +81,7 @@ li a:hover {
 	display: none;
 }
 .testo {
-	position: absolute;
-	padding-top: 10px;
+	top: 10px;
 	width: auto;
 	text-align: center;
 	font-size: 50px;
