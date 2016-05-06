@@ -74,3 +74,6 @@ li a:hover .tendina {
 	margin: 0;
 	z-index: -1;
 }
+.tendina { 
+Display: none;
+}
