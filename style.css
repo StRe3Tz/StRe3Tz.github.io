@@ -82,15 +82,14 @@ li a:hover {
 }
 .testo {
 	position: absolute;
-    left: 5%;
-    right: 5%;
-    top: 15%;
-    width: auto;
-    text-align: center;
-    font-size: 27px;
-    font-family: "GothamBook";
-    font-weight: bold;
-    color: white;
+	left: 5%;
+	right: 5%;
+	top: -10%;
+	width: auto;
+	text-align: center;
+	font-size: 27px;
+	font-family: "GothamBook";
+	color: white;
 /*	top: 10px;
 	width: auto;
 	text-align: center;
@@ -100,14 +99,24 @@ li a:hover {
 	overflow: hidden;     */
 }
 .sottotesto {
+	position: absolute;
 	left: 5%;
+	right: 5%;
+	top: -7%;
+	width: auto;
+	text-align: center;
+	font-size: 15px;
+	font-family: "GothamBook";
+	color: white;
+	font-style: italic;
+/*	left: 5%;
 	right: 5%;
 	top: 8%;
 	width: auto;
 	text-align: center;
 	font-size: 12px;
 	font-family: "GothamBook";
-	color: white;
+	color: white;        */
 }
 #box1 {
 	width: 567px;
