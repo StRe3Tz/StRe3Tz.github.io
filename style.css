@@ -106,3 +106,21 @@ li a:hover {
 	left: 676px; /*SAREBBERO 567(WIDTHBOX) + 100(DA LEFT) + ANCORA SCONOSCIUTO SPAZIETTO*/
 	top: -390px;
 }
+#box4 {
+	width: 567px;
+	height: 300px;
+	background-color: white;
+	position: relative;
+	z-index: 100;
+	left: 100px;
+	top: 438px;
+}
+#box5 {
+	width: 567px;
+	height: 300px;
+	background-color: white;
+	position: relative;
+	z-index: 100;
+	right: 100px;
+	top: 438px;
+}
