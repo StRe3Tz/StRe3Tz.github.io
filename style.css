@@ -81,15 +81,16 @@ li a:hover {
 	display: none;
 }
 .testo {
-	position: absolute;
-	text-align: center;
-	font-size: 50px;
-	width: auto;
-	font-family: "GothamBook";
-	color: white;
-	top: 10px;
-	left: 40%;
-	right: 40%;
+position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 15%;
+    width: auto;
+    text-align: center;
+    font-size: 27px;
+    font-family: "GothamBook";
+    font-weight: bold;
+    color: white;
 }
 #box1 {
 	width: 567px;
