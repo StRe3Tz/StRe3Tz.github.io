@@ -122,10 +122,10 @@ li a:hover {
 	position: absolute;
 	left: 5%;
 	right: 5%;
-	top: -5%;
+	top: -4%;
 	width: auto;
 	text-align: center;
-	font-size: 45px;
+	font-size: 38px;
 	font-family: "GothamBook";
 	color: white;
 }
@@ -133,7 +133,7 @@ li a:hover {
 	position: absolute;
 	left: 5%;
 	right: 5%;
-	top: 30%;
+	top: 26%;
 	width: auto;
 	text-align: center;
 	font-size: 15px;
