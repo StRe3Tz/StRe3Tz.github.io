@@ -394,7 +394,7 @@ li a:hover {
 	background-color:white;
 	position: relative;
 	z-index: 10;
-	left: 675px;
+	left: 50.4%;
 	top: -9%;
 }
 #box4 {
@@ -409,12 +409,12 @@ li a:hover {
 }
 #box5 {
 	background-image: url(HARD-DISK.jpg);
-	width: 42.28%;
+	width: 42.3%;
 	height: 300px;
 	background-color: white;
 	position: absolute;
 	z-index: 10;
-	right: 7.34%;
+	left: 50.4%;
 	top: 216.4%;
 }
 #box6 {
