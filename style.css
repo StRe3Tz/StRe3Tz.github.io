@@ -72,10 +72,11 @@ li a:hover {
 #prova {
 	position: absolute;
 	background-color: black;
-	top: -4%;
+	top: 14%;
 	opacity: 0.4;
-	width: 567px;
-	height: 40px;
+	width: 100%;
+	height: 30%;
+	z-index: 11;
 }
 #sfondo-dei-box {
 	background-image: url(Sfondo2.jpg);
@@ -116,6 +117,7 @@ li a:hover {
 	font-size: 50px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 /*	top: 10px;
 	width: auto;
 	text-align: center;
@@ -135,6 +137,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 /*	left: 5%;
 	right: 5%;
 	top: 8%;
@@ -293,7 +296,7 @@ li a:hover {
 	width: 567px;
 	height: 300px;
 	position: relative;
-	z-index: 100;
+	z-index: 10;
 	left: 99px;
 	top: 210px;
 	background-image: url(CPU.jpg);
