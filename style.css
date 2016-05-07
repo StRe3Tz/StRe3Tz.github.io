@@ -390,7 +390,7 @@ li a:hover {
 #box3 {
 	background-image: url(GPU.jpg);
 	width: 42.3%;
-	height: 609px;
+	height: 610px;
 	background-color:white;
 	position: relative;
 	z-index: 10;
@@ -399,22 +399,22 @@ li a:hover {
 }
 #box4 {
 	background-image: url(RAM.jpg);
-	width: 42.3%;
+	width: 42.25%;
 	height: 300px;
 	background-color: white;
 	position: absolute;
 	z-index: 10;
-	left: 7.4%;
+	left: 7.45%;
 	top: 216.4%;
 }
 #box5 {
 	background-image: url(HARD-DISK.jpg);
-	width: 42.3%;
+	width: 42.28%;
 	height: 300px;
 	background-color: white;
 	position: absolute;
 	z-index: 10;
-	right: 100px;
+	right: 7.34%;
 	top: 216.4%;
 }
 #box6 {
