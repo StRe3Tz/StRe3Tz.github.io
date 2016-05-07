@@ -69,6 +69,13 @@ li a:hover {
 	left: 40%;
 	right: 40%;
 }
+#prova {
+	background-color: black;
+	top: -4%;
+	opacity: 0,4;
+	width: 567px;
+	height: 80px;
+}
 #sfondo-dei-box {
 	background-image: url(Sfondo2.jpg);
 	background-size: auto;
