@@ -220,6 +220,7 @@ li a:hover {
 	font-size: 38px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #sottotesto1 {
 	position: absolute;
@@ -232,6 +233,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 }
 #testo2 {
 	position: absolute;
@@ -243,6 +245,7 @@ li a:hover {
 	font-size: 37px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #sottotesto2 {
 	position: absolute;
@@ -255,6 +258,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 }
 #testo3 {
 	position: absolute;
@@ -266,6 +270,7 @@ li a:hover {
 	font-size: 37px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #testo4 {
 	position: absolute;
@@ -277,6 +282,7 @@ li a:hover {
 	font-size: 37px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #sottotesto4 {
 	position: absolute;
@@ -289,6 +295,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 }
 #testo5 {
 	position: absolute;
@@ -299,6 +306,7 @@ li a:hover {
 	font-size: 37px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #sottotesto5 {
 	position: absolute;
@@ -310,6 +318,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 }
 #testo6 {
 	position: absolute;
@@ -320,6 +329,7 @@ li a:hover {
 	font-size: 37px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #sottotesto6 {
 	position: absolute;
@@ -332,6 +342,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 }
 #testo7 {
 	position: absolute;
@@ -342,6 +353,7 @@ li a:hover {
 	font-size: 37px;
 	font-family: "GothamBook";
 	color: white;
+	z-index: 100;
 }
 #sottotesto7 {
 	position: absolute;
@@ -354,6 +366,7 @@ li a:hover {
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
+	z-index: 100;
 }
 #box1 {
 	width: 567px;
