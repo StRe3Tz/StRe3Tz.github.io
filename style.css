@@ -65,7 +65,7 @@ li a:hover {
 	font-family: "GothamBook";
 	font-style: italic;
 	color: white;
-	top: 45%;
+	top: 47%;
 	left: 40%;
 	right: 40%;
 }
@@ -249,7 +249,8 @@ li a:hover {
 }
 #sottotesto6 {
 	position: absolute;
-	right: 13%;
+	right: 5%;
+	left: 5%;
 	top: 25%;
 	width: auto;
 	text-align: center;
@@ -270,7 +271,8 @@ li a:hover {
 }
 #sottotesto7 {
 	position: absolute;
-	right: 13%;
+	right: 5%;
+	left: 5%;
 	top: 25%;
 	width: auto;
 	text-align: center;
