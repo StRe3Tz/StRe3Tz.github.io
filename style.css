@@ -374,7 +374,7 @@ li a:hover {
 	position: relative;
 	z-index: 10;
 	left: 99px;
-	top: 210px;
+	top: 3%;
 	background-image: url(CPU.jpg);
 }
 #box2 {
@@ -385,7 +385,7 @@ li a:hover {
 	position: relative;
 	z-index: 10;
 	left: 99px;
-	top: 219px; /*100 RIGHEE*/
+	top: 3.2%;
 } 
 #box3 {
 	background-image: url(GPU.jpg);
@@ -395,7 +395,7 @@ li a:hover {
 	position: relative;
 	z-index: 10;
 	left: 675px;
-	top: -390px;
+	top: -9%;
 }
 #box4 {
 	background-image: url(RAM.jpg);
@@ -405,7 +405,7 @@ li a:hover {
 	position: absolute;
 	z-index: 10;
 	left: 100px;
-	top: 1294px;
+	top: 216.4%;
 }
 #box5 {
 	background-image: url(HARD-DISK.jpg);
@@ -415,7 +415,7 @@ li a:hover {
 	position: absolute;
 	z-index: 10;
 	right: 100px;
-	top: 1294px;
+	top: 216.4%;
 }
 #box6 {
 	background-image: url(DISSIPATORE.jpg);
@@ -425,7 +425,7 @@ li a:hover {
 	z-index: 10;
 	right: 100px;
 	left: 100px;
-	top: 1604px;
+	top: 262.7%;
 	background-color: white;
 }
 #box7 {
@@ -436,7 +436,7 @@ li a:hover {
 	position: absolute;
 	z-index: 10;
 	left: 100px;
-	top: 1913px;
+	top: 309%;
 }
 #box8 {
 	background-image: url(SCHEDA-AUDIO.jpg);
@@ -446,5 +446,5 @@ li a:hover {
 	position: absolute;
 	z-index: 10;
 	right: 100px;
-	top: 1913px;
+	top: 309%;
 }
