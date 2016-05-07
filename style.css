@@ -28,7 +28,6 @@ li a {
 	text-decoration: none;
 	font-family: "GothamBook";
 	z-index: 1000;
-	padding: 20px;
 	font-weight: bold;
 }
 li a:hover {
