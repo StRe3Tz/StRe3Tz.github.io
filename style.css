@@ -20,6 +20,7 @@ ul {
 }
 li {
 	display: inline;
+	padding:20px;
 }
 li a {
 	display: inline-block;
