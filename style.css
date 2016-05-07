@@ -182,6 +182,17 @@ li a:hover {
 	color: white;
 	font-style: italic;
 }
+#testo3 {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	top: -1%;
+	width: auto;
+	text-align: center;
+	font-size: 37px;
+	font-family: "GothamBook";
+	color: white;
+}
 #box1 {
 	width: 567px;
 	height: 300px;
@@ -212,6 +223,7 @@ li a:hover {
 	top: -390px;
 }
 #box4 {
+	background-image: url(RAM.jpg);
 	width: 567px;
 	height: 300px;
 	background-color: white;
