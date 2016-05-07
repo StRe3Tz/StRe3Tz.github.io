@@ -84,16 +84,16 @@ li a:hover {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 31%;
+	height: 27%;
 	z-index: 11;
 }
 #copritesto2 {
 	position: absolute;
 	background-color: black;
-	top: 13%;
+	top: 7%;
 	opacity: 0.4;
 	width: 100%;
-	height: 31%;
+	height: 13%;
 	z-index: 11;
 }
 #copritesto3 {
@@ -102,7 +102,7 @@ li a:hover {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 31%;
+	height: 19%;
 	z-index: 11;
 }
 #copritesto4 {
@@ -111,7 +111,7 @@ li a:hover {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 31%;
+	height: 27%;
 	z-index: 11;
 }
 #copritesto5 {
@@ -119,8 +119,9 @@ li a:hover {
 	background-color: black;
 	top: 13%;
 	opacity: 0.4;
-	width: 100%;
-	height: 31%;
+	width: 42%
+	left: 58%;
+	height: 26%;
 	z-index: 11;
 }
 #copritesto6 {
@@ -129,7 +130,7 @@ li a:hover {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 31%;
+	height: 26%;
 	z-index: 11;
 }
 #copritesto7 {
@@ -138,7 +139,7 @@ li a:hover {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 31%;
+	height: 26%;
 	z-index: 11;
 }
 #sfondo-dei-box {
