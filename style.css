@@ -237,6 +237,48 @@ li a:hover {
 	color: white;
 	font-style: italic;
 }
+#testo6 {
+	position: absolute;
+	right: 5%;
+	top: -3%;
+	width: auto;
+	text-align: center;
+	font-size: 37px;
+	font-family: "GothamBook";
+	color: white;
+}
+#sottotesto6 {
+	position: absolute;
+	right: 13%;
+	top: 25%;
+	width: auto;
+	text-align: center;
+	font-size: 15px;
+	font-family: "GothamBook";
+	color: white;
+	font-style: italic;
+}
+#testo7 {
+	position: absolute;
+	right: 5%;
+	top: -3%;
+	width: auto;
+	text-align: center;
+	font-size: 37px;
+	font-family: "GothamBook";
+	color: white;
+}
+#sottotesto7 {
+	position: absolute;
+	right: 13%;
+	top: 25%;
+	width: auto;
+	text-align: center;
+	font-size: 15px;
+	font-family: "GothamBook";
+	color: white;
+	font-style: italic;
+}
 #box1 {
 	width: 567px;
 	height: 300px;
