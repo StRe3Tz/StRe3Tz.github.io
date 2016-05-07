@@ -95,6 +95,9 @@ li a:hover {
 .tendina { 
 	display: none;
 }
+.sotto {
+	display: none;
+}
 #testo {
 	position: absolute;
 	left: 5%;
