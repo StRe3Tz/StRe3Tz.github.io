@@ -373,7 +373,7 @@ li a:hover {
 	height: 300px;
 	position: relative;
 	z-index: 10;
-	left: 99px;
+	left: 7.4%;
 	top: 3%;
 	background-image: url(CPU.jpg);
 }
@@ -384,7 +384,7 @@ li a:hover {
 	background-color: white;
 	position: relative;
 	z-index: 10;
-	left: 99px;
+	left: 7.4;
 	top: 3.2%;
 } 
 #box3 {
@@ -404,7 +404,7 @@ li a:hover {
 	background-color: white;
 	position: absolute;
 	z-index: 10;
-	left: 100px;
+	left: 7.4%;
 	top: 216.4%;
 }
 #box5 {
@@ -424,7 +424,7 @@ li a:hover {
 	position: absolute;
 	z-index: 10;
 	right: 100px;
-	left: 100px;
+	left: 7.4%;
 	top: 262.7%;
 	background-color: white;
 }
@@ -435,7 +435,7 @@ li a:hover {
 	background-color: white;
 	position: absolute;
 	z-index: 10;
-	left: 100px;
+	left: 7.4%;
 	top: 309%;
 }
 #box8 {
@@ -445,6 +445,6 @@ li a:hover {
 	background-color: white;
 	position: absolute;
 	z-index: 10;
-	right: 100px;
+	right: 7.4%;
 	top: 309%;
 }
