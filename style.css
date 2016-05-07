@@ -41,8 +41,7 @@ li a:hover {
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
 	width: 100%;
-	height: 400px;
-	padding-top: 47px;
+	padding-top: 50%;
 	z-index: -1;
 }
 #cit {
