@@ -9,14 +9,15 @@ body {
 }
 /*CENTRARE PERFETTAMENTE LE SCRITTE*/
 ul {
-	list-style-type: none                  !important;
-	margin: 0                              !important;
-	border: 0                              !important;
-	background-color: white                !important;
-	position: fixed                        !important;
-	width: 100%                            !important;
-	z-index: 1000                          !important;
-	text-align: center                     !important;
+	list-style-type: none;
+	margin-left: auto; 
+	margin-right: auto ;
+	border: 0;
+	background-color: white;
+	position: fixed;
+	width: 100%;
+	z-index: 1000;
+	text-align: center;
 }
 li {
 	display: inline;
