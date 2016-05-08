@@ -22,9 +22,9 @@ ul {
 }
 li {
 	position: center;
+	display: inline-block;
 }
 li a {
-	display: inline-block;
 	color: black;
 	text-align: center;
 	text-decoration: none;
