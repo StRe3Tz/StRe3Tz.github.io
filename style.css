@@ -9,43 +9,45 @@ body {
 }
 /*CENTRARE PERFETTAMENTE LE SCRITTE*/
 ul {
-	list-style-type: none;
-	margin: 0;
-	border: 0;
-	padding: 0;
-	background-color: white;
-	position: fixed;
-	width: 100%;
-	z-index: 100;
-	text-align: center;
-	overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
 }
 li {
-	position: center;
-	display: inline-block;
+    float: left;
 }
-li a {
-	color: black;
-	text-align: center;
-	text-decoration: none;
-	font-family: "GothamBook";
-	z-index: 1000;
-	font-weight: bold;
-	padding: 20px 20px;
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
-li a:hover {
-	color: gray;
-	z-index: 1000;
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #4CAF50;
 }
-#tendina a {
-	display: none;
-	position: absolute;
-	background-color: #f9f9f9;
-	min-width: 160px;
-	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+li.dropdown {
+    display: inline-block;
 }
-.versosotto:hover #tendina a {
-	display: block;
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {
+    display: block;
 }
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
