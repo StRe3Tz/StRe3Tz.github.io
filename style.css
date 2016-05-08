@@ -6,6 +6,7 @@
 body {
 	padding: 0;
 	margin: 0;
+	text-align: center;
 }
 /*CENTRARE PERFETTAMENTE LE SCRITTE*/
 ul {
@@ -14,9 +15,11 @@ ul {
     padding: 0;
     background-color: #333;
     z-index: 10000;
+    position: fixed;
+    width: 100%;
 }
 li {
-    float: left;
+    display: inline-block;
     z-index: 10000;
 }
 li a, .dropbtn {
@@ -26,6 +29,7 @@ li a, .dropbtn {
     padding: 14px 16px;
     text-decoration: none;
     z-index: 10000;
+    font-family: "GothamBook";
 }
 li a:hover, .dropdown:hover .dropbtn {
     background-color: #4CAF50;
