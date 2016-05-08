@@ -14,18 +14,22 @@ ul {
     padding: 0;
     background-color: #333;
     z-index: 10000;
+    position: fixed;
+    display: inline-block;
 }
 li {
-    float: left;
+    margin-left: 50%;
+    margin-right: 50%;
     z-index: 10000;
 }
 li a, .dropbtn {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 18px 20px;
     text-decoration: none;
     z-index: 10000;
+    font-family: "GothamBook";
 }
 li a:hover, .dropdown:hover .dropbtn {
     background-color: #4CAF50;
