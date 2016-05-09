@@ -404,6 +404,10 @@ li.dropdown {
 	display: inline-block;
 	font-size: 127%;
 }
+#button1:hover {
+	background-color: white;
+	transition-duration: 0.4s;
+}
 #button2 {
 	font-family: "GothamBook";
 }
