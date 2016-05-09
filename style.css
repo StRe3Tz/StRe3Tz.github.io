@@ -390,6 +390,41 @@ li.dropdown {
 	font-style: italic;
 	z-index: 100;
 }
+#button1 {
+	font-family: "GothamBook";
+	background-color: yellow;
+	color: black;
+	width: 10%;
+	height: 7%;
+	position: relative;
+	top: 20%;
+	padding: 2% 7%;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 10px;
+}
+#button2 {
+	font-family: "GothamBook";
+}
+#button3 {
+	font-family: "GothamBook";
+}
+#button4 {
+	font-family: "GothamBook";
+}
+#button5 {
+	font-family: "GothamBook";
+}
+#button6 {
+	font-family: "GothamBook";
+}
+#button7 {
+	font-family: "GothamBook";
+}
+#button8 {
+	font-family: "GothamBook";
+}
 #box1 {
 	width: 42.3%;
 	height: 300px;
