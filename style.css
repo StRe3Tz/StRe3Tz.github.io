@@ -55,6 +55,7 @@ li.dropdown {
     display: block;
     text-align: left;
     z-index: 10000;
+    transition-duration: 0.2s;
 }
 .dropdown-content a:hover {color: gray; z-index: 10000;}
 .dropdown:hover .dropdown-content {
@@ -408,7 +409,7 @@ li.dropdown {
 }
 #button1:hover {
 	background-color: white;
-	transition-duration: 1s;
+	transition-duration: 0.3s;
 }
 #button2 {
 	font-family: "GothamBook";
