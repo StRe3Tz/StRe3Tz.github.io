@@ -34,6 +34,7 @@ li a, .dropbtn {
 li a:hover, .dropdown:hover .dropbtn {
     z-index: 10000;
     color: gray;
+    transition-duration: 0.2s;
 }
 li.dropdown {
     display: inline-block;
@@ -59,6 +60,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
     z-index: 10000;
+    transition-duration: 0.2s;
 }
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
@@ -406,7 +408,7 @@ li.dropdown {
 }
 #button1:hover {
 	background-color: white;
-	transition-duration: 0.4s;
+	transition-duration: 1s;
 }
 #button2 {
 	font-family: "GothamBook";
