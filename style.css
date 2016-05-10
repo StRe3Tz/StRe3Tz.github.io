@@ -123,10 +123,10 @@ li.dropdown {
 #copritesto3 {
 	position: absolute;
 	background-color: black;
-	top: 13%;
+	top: 14%;
 	opacity: 0.4;
 	width: 100%;
-	height: 19%;
+	height: 14%;
 	z-index: 11;
 }
 #copritesto4 {
@@ -202,7 +202,7 @@ li.dropdown {
 	top: -10%;
 	width: auto;
 	text-align: center;
-	font-size: 50px;
+	font-size: 318% ;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -221,7 +221,7 @@ li.dropdown {
 	top: 30%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 96%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -242,7 +242,7 @@ li.dropdown {
 	top: -4%;
 	width: auto;
 	text-align: center;
-	font-size: 38px;
+	font-size: 233%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -254,7 +254,7 @@ li.dropdown {
 	top: 26%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 91.97%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -267,7 +267,7 @@ li.dropdown {
 	top: -1%;
 	width: auto;
 	text-align: center;
-	font-size: 37px;
+	font-size: 226.86%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -279,7 +279,7 @@ li.dropdown {
 	top: 13%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 91.97%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -292,7 +292,7 @@ li.dropdown {
 	top: -3%;
 	width: auto;
 	text-align: center;
-	font-size: 37px;
+	font-size: 318%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -304,7 +304,7 @@ li.dropdown {
 	top: -3%;
 	width: auto;
 	text-align: center;
-	font-size: 37px;
+	font-size: 226..86%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -316,7 +316,7 @@ li.dropdown {
 	top: 26%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 91.97%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -328,7 +328,7 @@ li.dropdown {
 	top: -3%;
 	width: auto;
 	text-align: center;
-	font-size: 37px;
+	font-size: 226.86%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -339,7 +339,7 @@ li.dropdown {
 	top: 25%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 91.97%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -351,7 +351,7 @@ li.dropdown {
 	top: -3%;
 	width: auto;
 	text-align: center;
-	font-size: 37px;
+	font-size: 226.86%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -363,7 +363,7 @@ li.dropdown {
 	top: 25%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 91.97%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -375,7 +375,7 @@ li.dropdown {
 	top: -3%;
 	width: auto;
 	text-align: center;
-	font-size: 37px;
+	font-size: 226.86%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -387,7 +387,7 @@ li.dropdown {
 	top: 25%;
 	width: auto;
 	text-align: center;
-	font-size: 15px;
+	font-size: 91.97%;
 	font-family: "GothamBook";
 	color: white;
 	font-style: italic;
@@ -473,7 +473,7 @@ li.dropdown {
 }
 #box5 {
 	background-image: url(HARD-DISK.jpg);
-	width: 42.3%;
+	width: 42.2%;
 	height: 45%;
 	background-color: white;
 	position: absolute;
@@ -488,7 +488,7 @@ li.dropdown {
 	position: absolute;
 	z-index: 10;
 	left: 7.5%;
-	top: 262.7%;
+	top: 266.7%;
 	background-color: white;
 }
 #box7 {
