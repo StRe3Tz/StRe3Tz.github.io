@@ -167,6 +167,7 @@ li.dropdown {
 	z-index: 11;
 }
 #sfondo-dei-box {
+	position: absolute;
 	background-image: url(Sfondo2.jpg);
 	background-size: auto;
 	background-repeat: repeat;
