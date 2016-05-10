@@ -409,6 +409,10 @@ li.dropdown {
 	display: inline-block;
 	font-size: 127%;
 }
+#button2:hover {
+	background-color: white;
+	transition-duration: 0.3s;
+}
 #button3 {
 	font-family: "GothamBook";
 	background-color: yellow;
@@ -422,6 +426,10 @@ li.dropdown {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 127%;
+}
+#button3:hover {
+	background-color: white;
+	transition-duration: 0.3s;
 }
 #button4 {
 	font-family: "GothamBook";
@@ -437,6 +445,10 @@ li.dropdown {
 	display: inline-block;
 	font-size: 127%;
 }
+#button4:hover {
+	background-color: white;
+	transition-duration: 0.3s;
+}
 #button5 {
 	font-family: "GothamBook";
 	background-color: yellow;
@@ -450,6 +462,10 @@ li.dropdown {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 127%;
+}
+#button5:hover {
+	background-color: white;
+	transition-duration: 0.3s;
 }
 #button6 {
 	font-family: "GothamBook";
@@ -466,6 +482,10 @@ li.dropdown {
 	font-size: 127%;
 	left: 29%;
 }
+#button6:hover {
+	background-color: white;
+	transition-duration: 0.3s;
+}
 #button7 {
 	font-family: "GothamBook";
 	background-color: yellow;
@@ -480,6 +500,10 @@ li.dropdown {
 	display: inline-block;
 	font-size: 127%;
 }
+#button7:hover {
+	background-color: white;
+	transition-duration: 0.3s;
+}
 #button8 {
 	font-family: "GothamBook";
 	background-color: yellow;
@@ -493,6 +517,10 @@ li.dropdown {
 	text-decoration: none;
 	display: inline-block;
 	font-size: 127%;
+}
+#button8:hover {
+	background-color: white;
+	transition-duration: 0.3s;
 }
 #box1 {
 	width: 42.2%;
