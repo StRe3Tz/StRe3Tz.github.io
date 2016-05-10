@@ -75,7 +75,7 @@ li.dropdown {
     	top: 15%;
     	width: auto;
     	text-align: center;
-    	font-size: 27px;
+    	font-size: 179%;
     	font-family: "GothamBook";
     	font-weight: bold;
     	color: white;
@@ -83,7 +83,7 @@ li.dropdown {
 #autore {
 	position: absolute;
 	text-align: center;
-	font-size: 15px;
+	font-size: 110%;
 	width: auto;
 	font-family: "GothamBook";
 	font-style: italic;
