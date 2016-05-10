@@ -8,6 +8,12 @@ body {
 	margin: 0;
 	text-align: center;
 }
+#immagine-navbar {
+	position: fixed;
+	left: 5px;
+	top: 20px;
+	background-image: url(favicon.png);
+}
 ul {
 	list-style-type: none;
     	margin: 0;
