@@ -107,7 +107,7 @@ li.dropdown {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 27%;
+	height: 26%;
 	z-index: 11;
 }
 #copritesto2 {
@@ -116,16 +116,16 @@ li.dropdown {
 	top: 7%;
 	opacity: 0.4;
 	width: 100%;
-	height: 13%;
+	height: 12%;
 	z-index: 11;
 }
 #copritesto3 {
 	position: absolute;
 	background-color: black;
-	top: 14%;
+	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 14%;
+	height: 24%;
 	z-index: 11;
 }
 #copritesto4 {
@@ -134,7 +134,7 @@ li.dropdown {
 	top: 13%;
 	opacity: 0.4;
 	width: 100%;
-	height: 27%;
+	height: 26%;
 	z-index: 11;
 }
 #copritesto5 {
@@ -235,7 +235,7 @@ li.dropdown {
 	position: absolute;
 	left: 5%;
 	right: 5%;
-	top: 26%;
+	top: 25%;
 	width: auto;
 	text-align: center;
 	font-size: 91.97%;
@@ -260,7 +260,7 @@ li.dropdown {
 	position: absolute;
 	left: 5%;
 	right: 5%;
-	top: 13%;
+	top: 12.5%;
 	width: auto;
 	text-align: center;
 	font-size: 91.97%;
@@ -288,7 +288,7 @@ li.dropdown {
 	top: -3%;
 	width: auto;
 	text-align: center;
-	font-size: 226..86%;
+	font-size: 226.86%;
 	font-family: "GothamBook";
 	color: white;
 	z-index: 100;
@@ -297,7 +297,7 @@ li.dropdown {
 	position: absolute;
 	left: 5%;
 	right: 5%;
-	top: 26%;
+	top: 24.5%;
 	width: auto;
 	text-align: center;
 	font-size: 91.97%;
