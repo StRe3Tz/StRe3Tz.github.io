@@ -32,7 +32,7 @@ li a, .dropbtn {
     	display: inline-block;
     	color: black;
     	text-align: center;
-    	padding: 12% 10%;
+    	padding: 12% 17%;
     	text-decoration: none;
     	z-index: 10000;
     	font-family: "GothamBook";
@@ -637,6 +637,10 @@ li.elementi {
 li.elementi a.link {
 	color: green;
 	text-decoration: underline;
-	padding: 10% 10%;
+	padding: 1% 4%;
 	font-family: "GothamBook";
+}
+li#titolo {
+	font-weight: bold;
+	color: black;
 }
