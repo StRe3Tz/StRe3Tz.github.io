@@ -608,3 +608,12 @@ li.dropdown {
 	left: 50.3%;
 	top: 313%;
 }
+#footer {
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	height: 50%;
+}
