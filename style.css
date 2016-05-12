@@ -15,7 +15,7 @@ body {
 	width: 4%;
 	z-index: 10000000;
 }
-#lista-navbar {
+ul {
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
@@ -24,11 +24,11 @@ body {
     	position: fixed;
     	width: 100%;
 }
-#normale {
+li {
     	display: inline-block;
     	z-index: 10000;
 }
-#normale a, .dropbtn {
+li a, .dropbtn {
     	display: inline-block;
     	color: black;
     	text-align: center;
@@ -37,12 +37,12 @@ body {
     	z-index: 10000;
     	font-family: "GothamBook";
 }
-#normale a:hover, .dropdown:hover .dropbtn {
+li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
     	color: gray;
     	transition-duration: 0.2s;
 }
-#normale.dropdown {
+li.dropdown {
     	display: inline-block;
     	z-index: 10000;
 }
