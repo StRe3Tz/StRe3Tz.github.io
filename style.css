@@ -15,7 +15,7 @@ body {
 	width: 4%;
 	z-index: 10000000;
 }
-#lista-navbar {
+ul {
 	list-style-type: none;
     	margin: 0;
     	padding: 0;
@@ -24,11 +24,11 @@ body {
     	position: fixed;
     	width: 100%;
 }
-.elemento-lista-navbar {
+li {
     	display: inline-block;
     	z-index: 10000;
 }
-#lista-navbar .elemento-lista-navbar, .dropbtn {
+li a, .dropbtn {
     	display: inline-block;
     	color: black;
     	text-align: center;
@@ -37,7 +37,7 @@ body {
     	z-index: 10000;
     	font-family: "GothamBook";
 }
-#lista-navbar .elemento-lista-navbar:hover, .dropdown:hover .dropbtn {
+li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
     	color: gray;
     	transition-duration: 0.2s;
@@ -625,16 +625,16 @@ li.dropdown {
     	margin: 0;
     	padding: 0;
 }
-#titolo {
+ul#titolo {
 	font-weight: bold;
 	color: black;
 	font-family: "GothamBook";
 }
-.elementi {
+li.elementi {
 	display: block;
 	font-family: "GothamBook";
 }
-.elementi .link {
+li.elementi a.link {
 	color: green;
 	text-decoration: underline;
 	padding: 10% 10%;
