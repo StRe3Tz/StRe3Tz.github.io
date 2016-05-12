@@ -633,6 +633,7 @@ ul#titolo {
 li.elementi {
 	display: block;
 	font-family: "GothamBook";
+	font-size: 95%;
 }
 li.elementi a.link {
 	color: green;
@@ -643,4 +644,6 @@ li.elementi a.link {
 li#titolo {
 	font-weight: bold;
 	color: black;
+	font-size: 115%;
+	font-family: "GothamBook";
 }
