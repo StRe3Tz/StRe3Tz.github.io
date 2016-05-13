@@ -600,6 +600,7 @@ li.dropdown {
 }
 #box8 {
 	background-image: url(SCHEDA-AUDIO.jpg);
+	background-size: 100% 100%;
 	width: 42.2%;
 	height: 45%;
 	background-color: white;
@@ -609,7 +610,9 @@ li.dropdown {
 	top: 313%;
 }
 #footer {
-	background-color: white;
+	background-image: url(Sfondo3Ok.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 	margin: 0;
 	padding: 0;
 	position: absolute;
