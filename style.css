@@ -626,6 +626,7 @@ li.dropdown {
 	list-style-type: none;
     	margin: 0;
     	padding-top: 3%;
+    	background-color: transparent;
 }
 ul#titolo {
 	font-weight: bold;
@@ -649,4 +650,5 @@ li#titolo {
 	color: black;
 	font-size: 115%;
 	font-family: "GothamBook";
+	padding-bottom: 2%;
 }
