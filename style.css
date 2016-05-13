@@ -634,13 +634,13 @@ li.elementi {
 	display: block;
 	font-family: "GothamBook";
 	font-size: 95%;
+	padding: 1% 4%;
 }
 li.elementi a.link {
 	color: green;
 	text-decoration: underline;
-	padding: 1% 4%;
+	padding: 0 0;
 	font-family: "GothamBook";
-	display: inline;
 }
 li#titolo {
 	font-weight: bold;
