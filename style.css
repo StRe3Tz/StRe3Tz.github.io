@@ -41,8 +41,8 @@ li a, .dropbtn {
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
-    	transition-duration: 0.2s;
     	color: gray;
+    	transition-duration: 0.2s;
 }
 li.dropdown {
     	display: inline-block;
@@ -66,7 +66,7 @@ li.dropdown {
     	z-index: 10000;
 }
 .dropdown-content a:hover {color: gray; z-index: 10000; transition-duration: 0.2s;}
-li a, .dropbtn:hover, .dropdown-content {
+.dropbtn:hover .dropdown-content {
     	display: block;
     	z-index: 10000;
     	transition-duration: 0.2s;
