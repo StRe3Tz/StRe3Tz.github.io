@@ -29,12 +29,12 @@ li {
     	display: inline-block;
     	z-index: 10000;
     	max-width: 10%;
+    	padding: 1% 1.5%;
 }
 li a, .dropbtn {
     	display: inline-block;
     	color: black;
     	text-align: center;
-    	padding: 12% 17%;
     	text-decoration: none;
     	z-index: 10000;
     	font-family: "GothamBook";
@@ -55,6 +55,7 @@ li.dropdown {
     	min-width: 160px;
     	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     	z-index: 10000;
+    	padding-top: 1%;
 }
 .dropdown-content a {
     	color: black;
