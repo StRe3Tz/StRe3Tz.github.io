@@ -48,7 +48,7 @@ li.dropdown {
     	display: inline-block;
     	z-index: 10000;
 }
-.dropdown-content {
+a.dropbtn, .dropdown-content {
     	display: none;
     	position: absolute;
     	background-color: white;
