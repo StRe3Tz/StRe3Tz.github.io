@@ -11,7 +11,7 @@ body {
 #immagine-navbar {
 	position: fixed;
 	left: 1%;
-	top: 0%;
+	top: -0.5%;
 	width: 4%;
 	z-index: 10000000;
 }
@@ -23,9 +23,6 @@ ul {
     	z-index: 10000;
     	position: fixed;
     	width: 100%;
-    	height: 9%;
-    	max-height: 9%;
-    	overflow: hidden;
 }
 li {
     	display: inline-block;
@@ -38,19 +35,16 @@ li a, .dropbtn {
     	padding: 12% 17%;
     	text-decoration: none;
     	z-index: 10000;
-    	overflow: hidden;
     	font-family: "GothamBook";
 }
 li a:hover, .dropdown:hover .dropbtn {
     	z-index: 10000;
     	color: gray;
     	transition-duration: 0.2s;
-    	overflow: hidden;
 }
 li.dropdown {
     	display: inline-block;
     	z-index: 10000;
-    	overflow: hidden;
 }
 .dropdown-content {
     	display: none;
@@ -59,7 +53,6 @@ li.dropdown {
     	min-width: 160px;
     	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     	z-index: 10000;
-    	overflow: hidden;
 }
 .dropdown-content a {
     	color: black;
@@ -69,14 +62,12 @@ li.dropdown {
     	text-align: left;
     	z-index: 10000;
     	transition-duration: 0.2s;
-    	overflow: hidden;
 }
 .dropdown-content a:hover {color: gray; z-index: 10000;}
 .dropdown:hover .dropdown-content {
     	display: block;
     	z-index: 10000;
     	transition-duration: 0.2s;
-    	overflow: hidden;
 }
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
