@@ -584,6 +584,7 @@ li.dropdown {
 	z-index: 10;
 	left: 50.3%;
 	top: 220.4%;
+	background-size: 100% 100%;
 }
 #box6 {
 	background-image: url(DISSIPATORE.jpg);
