@@ -551,6 +551,7 @@ li.dropdown {
 	z-index: 10;
 	left: 7.5%;
 	top: 174.2%;
+	background-size: 100% 100%;
 } 
 #box3 {
 	background-image: url(SCHEDA-VIDEO1ok.jpg);
@@ -561,6 +562,7 @@ li.dropdown {
 	z-index: 10;
 	left: 50.3%;
 	top: 127.8%;
+	background-size: 100% 100%;
 }
 #box4 {
 	background-image: url(RAM1ok.jpg);
@@ -571,6 +573,7 @@ li.dropdown {
 	z-index: 10;
 	left: 7.5%;
 	top: 220.4%;
+	background-size: 100% 100%;
 }
 #box5 {
 	background-image: url(HARD-DISK.jpg);
