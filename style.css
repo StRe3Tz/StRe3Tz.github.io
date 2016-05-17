@@ -641,6 +641,7 @@ li.elementi {
 	font-family: "GothamBook";
 	font-size: 95%;
 	padding: 1% 4%;
+	max-width: 100%;
 }
 li.elementi a.link {
 	color: green;
@@ -654,4 +655,5 @@ li#titolo {
 	font-size: 115%;
 	font-family: "GothamBook";
 	padding-bottom: 2%;
+	max-width: 100%;
 }
