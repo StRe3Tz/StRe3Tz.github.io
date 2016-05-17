@@ -539,7 +539,8 @@ li.dropdown {
 	z-index: 10;
 	left: 7.5%;
 	top: 127.9%;
-	background-image: url(CPU.jpg);
+	background-image: url(CPU1ok.jpg);
+	background-size: 100% 100%;
 }
 #box2 {
 	background-image: url(SCHEDA-MADRE.jpg);
