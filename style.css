@@ -595,6 +595,7 @@ li.dropdown {
 	left: 7.5%;
 	top: 266.7%;
 	background-color: white;
+	background-size: 100% 100%;
 }
 #box7 {
 	background-image: url(ALIMENTATORE.jpg);
@@ -605,6 +606,7 @@ li.dropdown {
 	z-index: 10;
 	left: 7.5%;
 	top: 313%;
+	background-size: 100% 100%;
 }
 #box8 {
 	background-image: url(SCHEDA-AUDIO.jpg);
