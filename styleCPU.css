@@ -81,7 +81,7 @@ li.dropdown {
 }
 #testo {
 	position: absolute;
-	width: 100%;
+	width: 91%;
 	height: 120%; /* prova */ 
 	font-family: "GothamBook";
 	text-align: left;
@@ -90,3 +90,5 @@ li.dropdown {
 h3 {
 	font-size: 250%;
 }
+p {
+	line-height: 1.4;
