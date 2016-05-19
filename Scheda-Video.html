@@ -1,1 +1,51 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styleCPU.css">
+  <link rel="icon" src="favicon.ico" type="image/x-icon"/>
+  <link rel="shortcut icon" src="favicon.ico" type="image/x-icon"/>
+  <title>Hardware &#8212 CPU</title>
+</head>
+<body>
+  <div id="immagine-navbar"><img src="favicon.png" height="100%" width="100%"></div>
+  <ul>
+    <li><a href="https://stre3tz.github.io/">HOME</a></li>
+    <li class="dropdown"><a href="#" class="dropbtn">HARDWARE</a>
+      <div class="dropdown-content">  
+        <a href="#">CPU</a>
+        <a href="#">Scheda Madre</a>
+        <a href="#">Scheda Video</a>
+        <a href="#">RAM</a>
+        <a href="#">Hard Disk</a>
+        <a href="#">Dissipatore</a>
+        <a href="#">Alimentatore</a>
+        <a href="#">Scheda Audio</a>
+     </div>
+    </li>
+    <li><a href="#">ABOUT</a></li>
+  </ul>
+  <div id="immagine-inizio"></div>
+  <div id="titolo-foto">La CPU.</div>
+  <div id="testo">
+    <h3><b>Che cos'è</b></h3>
+    <p>La CPU (<i>Central Processing Unit</i>, unità di elaborazione centrale) è la "parte" del computer che elabora i dati. È definita unità <i>centrale</i> di elaborazione perché coordina in maniera centralizzata tutte le altre unità di elaborazione presenti nel computer, ovvero le periferiche interne o le schede elettroniche (scheda video, scheda audio ecc.). Il compito principale della CPU è, appunto, quello di eseguire e dare istruzioni nel minor tempo possibile. Proprio per questo, ai giorni d'oggi le CPU sono formate da più core, ognuno dei quali costituisce una sorta di CPU indipendente: si viene così a creare un sistema "multiprocessore" che dà la possibilità alla CPU di eseguire più programmi contemporaneamente (<i>multitasking</i>). Si trova sulla scheda madre, in uno slot appositamente dedicato, e la sua velocità si misura in GHz (record mondiale: 8.429 Ghz).</p>
+    <h3>Struttura</h3>
+    <p>L'unità di elaborazione centrale è formata da tre parti:
+      <ul id="CPUlist">
+        <li class="CPUitem"><b>Unità di controllo</b> (<b>UC</b> o <b>CU</b>). Legge dalla memoria le istruzioni e, se necessario, legge i dati per l’istruzione letta, esegue l’istruzione e memorizza nella memoria o in un registro interno alla CPU il risultato, se presente.</li>
+        <li class="CPUitem"><b>Unità aritmetico-logica</b> (<b>ALU</b>). È l'unità che si occupa di eseguire tutte le operazioni aritmetiche e logiche.</li>
+        <li class="CPUitem"><b>Vari registri</b>. sono speciali locazioni di memoria interne alla CPU, dove vi si può accedere molto più velocemente rispetto alle altre memorie. In una CPU sono sempre presenti due tipi di registro: il registro IP (<i>Instruction Pointer</i>), che contiene l’indirizzo della prossima istruzione da eseguire; il registro dei flag, che non contengono numeri bensì un insieme di bit (detti flag) che segnalano stati particolari della CPU e alcune informazioni sulle operazioni appena eseguite. I flag più importanti sono: i flag di stato (<i>overflow, zero, carry, segno</i>) e i flag di controllo (<i>interrupt</i>).</li>
+      </ul>
+    </p>
+    <h3 style="position: relative;">Come funziona</h3>
+    <p>L'insieme di questi passaggi è detto ciclo del processore:
+      <ul id="PROClist">
+        <li class="PROCitem"><b>Acquisizionedell’istruzione</b> (<b><i>Instruction Fetch</i></b>). Il processore preleva l’istruzione dalla memoria, presente nell’indirizzo specificato da un registro speciale, il PC.</li>
+        <li class="PROCitem"><b>Decodifica</b> (<b><i>Operand Assembly</i></b>). Una volta che la <i>word</i> (sequenza di bit) è stata prelevata, viene determinata quale operazione deve essere eseguita e come ottenere gli operandi.</li>
+        <li class="PROCitem"><b>Esecuzione</b> (<b><i>Execute</i></b>). Viene eseguita la computazione desiderata. Nell’ultimo passo dell’esecuzione viene incrementato il PC.</li>
+      </ul>
+    </p>
+  </div>
+</body>
+</html>
 
