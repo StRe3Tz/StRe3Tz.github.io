@@ -114,3 +114,24 @@ li.CPUitem {
 	width: 100%;
 	position: relative;
 }
+ul#PROClist {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	position: relative;
+	height: 80%; /* prova */ 
+	list-style-type: square;
+	width: 100%;
+	line-height: 1.4;	
+}
+li.PROCitem {
+	list-style-type: square;
+	list-style-type: square;
+	display: list-item;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	max-width: 100%;
+	width: 100%;
+	position: relative;	
+}
