@@ -123,7 +123,8 @@ ul#PROClist {
 	height: 80%; /* prova */ 
 	list-style-type: square;
 	width: 91%;
-	line-height: 1.4;	
+	line-height: 1.4;
+	padding-bottom: 8.4%;
 }
 li.PROCitem {
 	list-style-type: square;
