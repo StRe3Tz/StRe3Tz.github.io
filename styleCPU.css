@@ -81,12 +81,13 @@ li.dropdown {
 }
 #titolo-foto {
 	position: absolute;
-	top: 10%;
+	top: 81%;
 	height: 100%;
 	font-weight: bold;
-	font-size: 350%;
-	left: 10%;
+	font-size: 450%;
+	left: 6%;
 	color: white;
+	font-family: "GothamBook";
 }
 #testo {
 	position: absolute;
