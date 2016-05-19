@@ -92,3 +92,9 @@ h3 {
 }
 p {
 	line-height: 1.4;
+}
+ul#CPUlist {
+}
+li.CPUitem {
+	list-style-type: square;	
+}
