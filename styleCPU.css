@@ -79,6 +79,15 @@ li.dropdown {
 	width: 100%;
 	padding-top: 50%;
 }
+#titolo-foto {
+	position: absolute;
+	top: 10%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 350%;
+	left: 10%;
+	color: white;
+}
 #testo {
 	position: absolute;
 	width: 91%;
