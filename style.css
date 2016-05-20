@@ -53,10 +53,10 @@ li.dropdown {
     	display: none;
     	position: absolute;
     	background-color: white;
-    	min-width: 160px;
+    	min-width: 8%;
     	z-index: 10000;
     	padding-top: 1%;
-    	left: 43.7%;
+    	left: 45.4%;
 }
 .dropdown-content a {
     	color: black;
@@ -399,7 +399,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button1:hover {
 	background-color: white;
@@ -417,7 +417,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button2:hover {
 	background-color: white;
@@ -435,7 +435,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button3:hover {
 	background-color: white;
@@ -453,7 +453,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button4:hover {
 	background-color: white;
@@ -471,7 +471,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button5:hover {
 	background-color: white;
@@ -489,7 +489,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 	left: 29%;
 }
 #button6:hover {
@@ -508,7 +508,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button7:hover {
 	background-color: white;
@@ -526,7 +526,7 @@ li.dropdown {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 127%;
+	font-size: 160%;
 }
 #button8:hover {
 	background-color: white;
