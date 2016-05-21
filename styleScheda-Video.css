@@ -125,25 +125,6 @@ li.SchedaVideoitem {
 	width: 100%;
 	position: relative;
 }
-/*ul#PROClist {
-	margin: 0;
-	padding: 0;
-	background-color: transparent;
-	position: relative;
-	height: 80%;
-	list-style-type: square;
-	width: 91%;
-	line-height: 1.4;
-	padding-bottom: 8.4%;
+#problematico {
+	padding-top: 1.5%;
 }
-li.PROCitem {
-	list-style-type: square;
-	list-style-type: square;
-	display: list-item;
-	margin: 0;
-	border: 0;
-	padding: 0;
-	max-width: 100%;
-	width: 100%;
-	position: relative;	
-} */
