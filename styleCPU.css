@@ -133,7 +133,7 @@ ul#PROClist {
 	position: relative;
 	height: 80%; /* prova */ 
 	list-style-type: square;
-	width: 91%;
+	width: 100%;
 	line-height: 1.4;
 	padding-bottom: 8.4%;
 }
