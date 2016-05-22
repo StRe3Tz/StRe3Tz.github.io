@@ -1,1 +1,127 @@
-
+@font-face {
+	font-family: "GothamBook";
+	src: url(GothamBook.eot);
+	src: local("GothamBook"), url("GothamBook.ttf") format("truetype");
+}
+body {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+#immagine-navbar {
+	position: fixed;
+	left: 1%;
+	top: -0.3%;
+	width: 3.7%;
+	height: 7.4%;
+	z-index: 10000000;
+}
+ul {
+	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    	background-color: white;
+    	z-index: 10000;
+    	position: fixed;
+    	width: 100%;
+    	max-height: 6.9%;
+    	height: 100%;
+}
+li {
+    	display: inline-block;
+    	z-index: 10000;
+    	max-width: 10%;
+    	padding: 1% 1.5%;
+}
+li a, .dropbtn {
+    	display: inline-block;
+    	color: black;
+    	text-align: center;
+    	text-decoration: none;
+    	z-index: 10000;
+    	font-family: "GothamBook";
+}
+li a:hover, .dropdown:hover .dropbtn {
+    	z-index: 10000;
+    	color: gray;
+    	transition-duration: 0.2s;
+}
+li.dropdown {
+    	display: inline-block;
+    	z-index: 10000;
+}
+.dropdown-content {
+    	display: none;
+    	position: absolute;
+    	background-color: white;
+    	min-width: 160px;
+    	z-index: 10000;
+    	padding-top: 1%;
+    	left: 43.7%;
+}
+.dropdown-content a {
+    	color: black;
+    	padding: 6% 13%;
+    	text-decoration: none;
+    	display: block;
+    	text-align: left;
+    	z-index: 10000;
+}
+.dropdown-content a:hover {color: gray; z-index: 10000; transition-duration: 0.2s;}
+.dropdown:hover .dropdown-content {
+    	display: block;
+    	z-index: 10000;
+    	transition-duration: 0.2s;
+}
+#immagine-inizio {
+	background-image: url(SCHEDA-VIDEO-SFONDO.jpg);
+	background-size: 100% 100%;
+	width: 100%;
+	padding-top: 50%;
+}
+#titolo-foto {
+	position: absolute;
+	top: 81%;
+	height: 100%;
+	font-weight: bold;
+	font-size: 450%;
+	left: 6%;
+	color: white;
+	font-family: "GothamBook";
+}
+#testo {
+	position: absolute;
+	width: 91%;
+	height: 120%; /* prova */ 
+	font-family: "GothamBook";
+	text-align: left;
+	padding-left: 6%;
+}
+h3 {
+	font-size: 250%;
+}
+p {
+	line-height: 1.4;
+}
+ul#RAMlist {
+	margin: 0;
+	padding: 0;
+	background-color: transparent;
+	position: relative;
+	height: 80%; /* prova */ 
+	list-style-type: square;
+	width: 100%;
+	line-height: 1.4;
+	padding-bottom: 8.4%;
+}
+li.RAMitem {
+	list-style-type: square;
+	list-style-type: square;
+	display: list-item;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	max-width: 100%;
+	width: 100%;
+	position: relative;
+}
