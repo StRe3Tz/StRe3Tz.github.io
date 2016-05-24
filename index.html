@@ -24,11 +24,19 @@
      </div>
     </li>
     <li><a href="#">ABOUT</a></li>
+    <li class="icon">
+    <a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a>
+  </li>
   </ul>
   <div id="prima-sezione">
     <div id="cit"><h2>IL COMPUTER NON &#0200 UNA MACCHINA CHE AIUTA PERSONE STUPIDE, ANZI, &#0200 UNA MACCHINA STUPIDA CHE FUNZIONA SOLO NELLE MANI DI PERSONE INTELLIGENTI.</h2></div>
     <h3 id="autore"><i>Umberto Eco</i></h3> 
   </div>
+  <script>
+function myFunction() {
+    document.getElementsByClassName("topnav")[0].classList.toggle("responsive");
+}
+</script>
   <div id="sfondo-dei-box"></div>
   <div id="alla-scoperta"><h2>LE PRINCIPALI COMPONENTI</h2></div> 
   <div id="box1">
