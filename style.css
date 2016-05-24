@@ -666,3 +666,47 @@ li#titolo {
 	padding-bottom: 2%;
 	max-width: 100%;
 }
+@media only screen and (max-width: 768px) {
+	p {
+		font-size: auto;
+	}
+	#immagine-navbar {
+		display: none;
+	}
+	li {
+		display: inline-block;
+	}
+	#prima-sezione {
+		width: 100%;
+		height: auto;
+	}
+	#cit {
+		font-size: 50%;
+	}
+	#autore {
+		font-size: 25%;
+	}
+	#alla-scoperta {
+		width: 100%;
+		height: auto;
+		font-size: 100%;
+	}
+	#box1 {
+		width: 100%;
+		height: auto;
+	}
+	#testo1 {
+		font-size: auto;
+	}
+	#sottotesto {
+		font-size: auto;
+	}
+	#copritesto {
+		width: 100%;
+		height: auto;
+	}
+	#button1 {
+		width: auto;
+		height: auto;
+	}
+}
