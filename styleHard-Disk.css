@@ -82,7 +82,7 @@ li.dropdown {
 #titolo-foto {
 	position: absolute;
 	top: 81%;
-	height: 100%;
+	height: 80%;
 	font-weight: bold;
 	font-size: 450%;
 	left: 6%;
@@ -92,7 +92,7 @@ li.dropdown {
 #testo {
 	position: absolute;
 	width: 91%;
-	height: 120%; /* prova */ 
+	height: 59%; /* prova */ 
 	font-family: "GothamBook";
 	text-align: left;
 	padding-left: 6%;
