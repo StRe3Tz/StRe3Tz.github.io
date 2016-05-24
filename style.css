@@ -73,40 +73,6 @@ li.dropdown {
     	z-index: 10000;
     	transition-duration: 0.2s;
 }
-li.icon {
-	display: none;
-}
-@media screen and (max-width:680px) {
-  ul li:not(:first-child) {display: none;}
-  ul li.icon {
-    float: right;
-    display: inline-block;
-  }
-}
-  #immagine-navbar {
-  	display: none;
-  }
-}
-
-@media screen and (max-width:680px) {
-  ul.responsive {position: relative;}
-  ul.responsive li.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  ul.responsive li {
-    float: none;
-    display: inline;
-  }
-  ul.responsive li a {
-    display: block;
-    text-align: left;
-  }
-  #immagine-navbar {
-  	display: none;
-  }
-}
 #prima-sezione {
 	background-image: url(Sfondo1.jpg);
 	width: 100%;
