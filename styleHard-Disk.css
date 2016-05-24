@@ -88,6 +88,7 @@ li.dropdown {
 	left: 6%;
 	color: white;
 	font-family: "GothamBook";
+	z-index: 2;
 }
 #testo {
 	position: absolute;
