@@ -678,13 +678,14 @@ li#titolo {
 	}
 	#prima-sezione {
 		width: 100%;
-		height: auto;
+		height: 50%;
 	}
 	#cit {
 		font-size: 50%;
 	}
 	#autore {
 		font-size: 25%;
+		top: 29%;
 	}
 	#alla-scoperta {
 		width: 100%;
@@ -710,7 +711,7 @@ li#titolo {
 	}
 	#copritesto {
 		width: 100%;
-		height: auto;
+		height: 34%;
 	}
 	#button1 {
 		width: auto;
