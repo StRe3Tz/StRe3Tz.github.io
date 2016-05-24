@@ -126,3 +126,12 @@ li.HardDiskitem {
 	width: 100%;
 	position: relative;
 }
+#sottotesto {
+	position: absolute;
+	height: 12%;
+	width: 100%;
+	z-index: 1;
+	background-color: black;
+	top: 81%;
+	opacity: 0.5;
+}
