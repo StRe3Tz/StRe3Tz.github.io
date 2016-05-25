@@ -8,7 +8,7 @@ body {
 	margin: 0;
 	text-align: center;
 }
-#immagine-navbar {*.
+#immagine-navbar {
 	position: fixed;
 	left: 1%;
 	top: -0.3%;
@@ -106,7 +106,7 @@ p {
 ul#Dissipatorelist {
 	margin: 0;
 	padding: 0;
-	background-color: transparent; 
+	background-color: transparent;
 	position: relative;
 	height: 80%; /* prova */ 
 	list-style-type: square;
