@@ -103,5 +103,25 @@ p {
 	font-size: 150%;
 	font-family: "GothamBook";
 	position: absolute;
-	top: 60%;
+	top: 45%;
+}
+#facebook {
+	float: center;
+	width: auto;
+	height: auto;
+	background-image: url(FacebookStatic.png);
+	background-size: 100% 100%;
+}
+#facebook:hover {
+	background-image: url(FacebookHover.png);
+}
+#instagram {
+	float: center;
+	width: auto;
+	height: auto;
+	background-image: url(InstagramStatic.png);
+	background-size: 100% 100%;
+}
+#instagram:hover {
+	background-image: url(InstagramHover.png);
 }
