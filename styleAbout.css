@@ -75,18 +75,25 @@ li.dropdown {
 }
 h3 {
   text-align: center;
-  font-size: 200%;
+  font-size: 300%;
   color: black;
+  font-family: "GothamBook";
 }
 p {
   left: 10%;
   right: 10%;
-  font-size: 75%;
+  font-size: 105%;
   color: black;
+  font-family: "GothamBook";
 }
 #testo {
 	width: 100%;
 	color: black;
 	top: 0%;
 	font-size: auto;
+	position: absolute;
+	top: 7%;
+	font-family: "GothamBook";
+	padding-left: 10%;
+	padding-right: 10%;
 }
