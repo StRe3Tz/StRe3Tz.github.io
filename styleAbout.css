@@ -84,10 +84,11 @@ p {
   right: 10%;
   font-size: 105%;
   color: black;
+  line-height: 1.4;
   font-family: "GothamBook";
 }
 #testo {
-	width: 100%;
+	width: 80%;
 	color: black;
 	top: 0%;
 	font-size: auto;
@@ -96,4 +97,11 @@ p {
 	font-family: "GothamBook";
 	padding-left: 10%;
 	padding-right: 10%;
+}
+#container-social {
+	width: 100%;
+	font-size: 150%;
+	font-family: "GothamBook";
+	position: absolute;
+	top: 60%;
 }
