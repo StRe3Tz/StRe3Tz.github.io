@@ -107,20 +107,26 @@ p {
 }
 #facebook {
 	float: center;
-	width: auto;
-	height: auto;
+	width: 3%;
+	height: 45%;
 	background-image: url(FacebookStatic.png);
 	background-size: 100% 100%;
+	position: absolute;
+	left: 46%;
+	top: 26%;
 }
 #facebook:hover {
 	background-image: url(FacebookHover.png);
 }
 #instagram {
 	float: center;
-	width: auto;
-	height: auto;
+	width: 3%;
+	height: 45%;
 	background-image: url(InstagramStatic.png);
 	background-size: 100% 100%;
+	position: absolute;
+	left: 56%;
+	top: 26%;
 }
 #instagram:hover {
 	background-image: url(InstagramHover.png);
