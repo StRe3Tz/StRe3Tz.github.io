@@ -103,18 +103,18 @@ p {
 	font-size: 250%;
 	font-family: "GothamBook";
 	position: absolute;
-	top: 55%;
+	top: 44%;
 	font-weight: thin;
 }
 #facebook {
 	float: center;
 	width: 3%;
-	height: 45%;
+	height: 30%;
 	background-image: url(FacebookStatic.png);
 	background-size: 100% 100%;
 	position: absolute;
 	left: 46%;
-	top: 26%;
+	top: 35%;
 }
 #facebook:hover {
 	background-image: url(FacebookHover.png);
@@ -122,12 +122,12 @@ p {
 #instagram {
 	float: center;
 	width: 3.3%;
-	height: 52%;
+	height: 33%;
 	background-image: url(InstagramStatic.png);
 	background-size: 100% 100%;
 	position: absolute;
 	left: 50.8%;
-	top: 23%;
+	top: 33%;
 }
 #instagram:hover {
 	background-image: url(InstagramHover.png);
