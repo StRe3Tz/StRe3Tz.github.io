@@ -628,7 +628,7 @@ li.dropdown {
 	position: absolute;
 	top: 375%;
 	width: 100%;
-	height: 46%;
+	height: 48%;
 }
 ul#lista-footer {
 	position: absolute;
@@ -636,7 +636,7 @@ ul#lista-footer {
 	height: 46%;
 	list-style-type: none;
     	margin: 0;
-    	padding-top: 3%;
+    	padding-top: 2%;
     	background-color: transparent;
 }
 ul#titolo {
@@ -652,14 +652,14 @@ li.elementi {
 	max-width: 100%;
 }
 li.elementi a.link {
-	color: green;
+	color: yellow;
 	text-decoration: underline;
 	padding: 0 0;
 	font-family: "GothamBook";
 }
 li#titolo {
 	font-weight: bold;
-	color: black;
+	color: white;
 	font-size: 115%;
 	font-family: "GothamBook";
 	padding-bottom: 2%;
